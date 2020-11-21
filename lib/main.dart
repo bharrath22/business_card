@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
                         fontFamily: 'Permanent_Marker',
                         fontWeight: FontWeight.bold,
                         fontSize: 25,
-                        color: Colors.white70),
+                        color: Colors.cyanAccent),
                   ),
                   SizedBox(
                     height: 20,
