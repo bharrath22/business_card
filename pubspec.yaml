@@ -52,9 +52,9 @@ flutter:
       fonts:
         - asset: fonts/PermanentMarker-Regular.ttf
 
-    - family: Pacifico
+    - family: Castoro
       fonts:
-        - asset: fonts/Pacifico-Regular.ttf
+        - asset: fonts/Castoro-Regular.ttf
 
     - family: Roboto
       fonts:
