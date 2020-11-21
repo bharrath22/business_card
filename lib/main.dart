@@ -30,7 +30,6 @@ class MyApp extends StatelessWidget {
                     letterSpacing: 1,
                     fontSize: 40.0,
                     color: Colors.white,
-                    shadows:
                   ),
                 ),
                 Text(
